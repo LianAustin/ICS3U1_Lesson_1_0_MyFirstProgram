@@ -6,7 +6,7 @@ class Program1 extends ConsoleProgram {
   */
   
 
-  //Banana
+  //Bananas
   public void run() {
     System.out.println("Banana");
 
