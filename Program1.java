@@ -8,7 +8,7 @@ class Program1 extends ConsoleProgram {
 
   //Bananas
   public void run() {
-    System.out.println("Banana");
+    System.out.println("\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBanana");
 
     
   }
