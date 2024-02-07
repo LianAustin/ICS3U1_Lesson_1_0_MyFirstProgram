@@ -1,8 +1,8 @@
 class Program1 extends ConsoleProgram {
 
   /**
-  * Description
-  * @author:
+  * Banana code
+  * @author: Austin L
   */
   
 
